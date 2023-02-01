@@ -4,9 +4,6 @@ import static org.junit.Assert.assertTrue;
 
 import java.util.Scanner;
 
-import org.junit.Test;
-import org.junit.runners.Parameterized.Parameters;
-
 
 
 public class UserRegistrationTest {
